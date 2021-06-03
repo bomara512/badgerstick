@@ -1,9 +1,10 @@
 # BadgerStick
 Our school librarian got some old used BadgerStick boards a few years ago and asked me if there was anything she could do with them as an activity for her kids. Turns out they were a little too fiddly for small kids to enjoy, but I had fun tinkering around enough to get "Hello World" scrolling across its LEDs. Here's the notes I wrote up for her in case anyone else comes across one.  
 
-
 # What is a BadgerStick?
-A BadgerStick is a small Arduino-compatible device that was part of a cool Maker event sponsored by Sparkfun at SXSW in 2015. Kids learned to assemble, solder, and program a badge consisting of the BadgerStick and a LED display that can scroll messages.  
+A BadgerStick is a small Arduino-compatible device that was part of a cool Maker event sponsored by Sparkfun at SXSW in 2015. Kids learned to [assemble, solder, and program a badge](https://learn.sparkfun.com/tutorials/badgerhack) consisting of the BadgerStick and a LED display that can scroll messages.  
+
+![SparkFun BadgerHack](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/4/3/6/Badgerhack_Hookup_Guide-35.jpg)
 
 What is an Arduino? According to the folks at https://www.arduino.cc:
 
@@ -81,8 +82,6 @@ https://learn.sparkfun.com/tutorials/badgerhack-sensor-add-on-kit
 __Synth Add-On Kit (noise-making circuit)__
 
 https://learn.sparkfun.com/tutorials/badgerhack-synth-add-on-kit
-
-
 
 
 ## Arduino IDE
