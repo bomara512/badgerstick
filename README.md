@@ -1,4 +1,4 @@
-#BadgerStick
+# BadgerStick
 Our school librarian got some old used BadgerStick boards a few years ago and asked me if there was anything she could do with them as an activity for her kids. Turns out they were a little too fiddly for small kids to enjoy, but I had fun tinkering around enough to get "Hello World" scrolling across its LEDs. Here's the notes I wrote up for her in case anyone else comes across one.  
 
 
@@ -36,7 +36,7 @@ https://codebender.cc/sketch:379543#BadgerHack%20Hello%20World.ino
 ## Install code onto the BadgerStick
 On the first dropdown at the bottom of the CodeBender window, select “BadgerStick” under the “SparkFun Electronics” section.
 
-On the second dropdown, select your USB port. This will be something like COM3 or COM4 on a Windows machine, and something like /dev/cu.usbserial-XYZ123 on a Mac.
+On the second dropdown, select your USB port. This will be something like `COM3` or `COM4` on a Windows machine, and something like `/dev/cu.usbserial-XYZ123` on a Mac.
 
 Click the green "Run on Arduino" button to install the code to the BadgerStick. You should see a “Working…” message followed by “Upload Successful!” when it is finished. A green LED might flicker on the BadgerStick while the code is being transferred.
 
